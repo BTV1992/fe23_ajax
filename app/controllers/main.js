@@ -6,6 +6,8 @@ $(document).ready(function () {
 
     function test(){};
 
+    function taoBranchBTVu (){};
+
     function layDanhSachNguoiDung() {
         // CÁCH 2
         danhSachNguoiDung.layDanhSachNguoiDung()

@@ -8,6 +8,8 @@ $(document).ready(function () {
 
     function taoBranchBTVu (){};
 
+    function timKiem (){};
+
     function layDanhSachNguoiDung() {
         // CÁCH 2
         danhSachNguoiDung.layDanhSachNguoiDung()

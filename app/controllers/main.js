@@ -4,6 +4,8 @@ $(document).ready(function () {
 
     layDanhSachNguoiDung();
 
+    function test(){};
+
     function layDanhSachNguoiDung() {
         // CÁCH 2
         danhSachNguoiDung.layDanhSachNguoiDung()

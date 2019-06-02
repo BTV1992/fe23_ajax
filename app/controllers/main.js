@@ -8,7 +8,10 @@ $(document).ready(function () {
 
     function taoBranchBTVu (){};
 
-    function timKiem (){};
+    function timKiem (){
+        console.log(12323);
+        
+    };
 
     function layDanhSachNguoiDung() {
         // CÁCH 2
